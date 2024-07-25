@@ -1,6 +1,7 @@
 {
     "wsapi": [
       {
+        "id": "1",
         "nome": "Lunio-01",
         "tipo": "OLT",
         "site": "REC0001",
@@ -9,6 +10,7 @@
         "primario": "188"
       },
       {
+        "id": "2",
         "nome": "Lunio-02",
         "tipo": "OLT",
         "site": "REC0002",
@@ -17,6 +19,7 @@
         "primario": "190"
       },
         {
+          "id": "3",
           "nome": "Lunio-03",
           "tipo": "OLT",
           "site": "REC0003",
@@ -25,6 +28,7 @@
           "primario": "192"
         },
         {
+          "id": "4",
           "nome": "Lunio-04",
           "tipo": "OLT",
           "site": "REC0004",
@@ -33,6 +37,7 @@
           "primario": "194"
         },
         {
+            "id": "5",
           "nome": "Lunio-05",
           "tipo": "OLT",
           "site": "REC0005",
@@ -41,6 +46,7 @@
           "primario": "196"
         },
         {
+            "id": "6",
           "nome": "Lunio-06",
           "tipo": "OLT",
           "site": "REC0006",
@@ -49,6 +55,7 @@
           "primario": "198"
         },
         {
+            "id": "7",
           "nome": "Lunio-07",
           "tipo": "OLT",
           "site": "REC0007",
@@ -57,6 +64,7 @@
           "primario": "200"
         },
         {
+            "id": "8",
           "nome": "Lunio-08",
           "tipo": "OLT",
           "site": "REC0008",
@@ -65,6 +73,7 @@
           "primario": "202"
         },
         {
+            "id": "9",
           "nome": "Lunio-09",
           "tipo": "OLT",
           "site": "REC0009",
@@ -73,6 +82,7 @@
           "primario": "204"
         },
         {
+            "id": "10",
           "nome": "Lunio-10",
           "tipo": "OLT",
           "site": "REC0010",
@@ -81,6 +91,7 @@
           "primario": "206"
         },
         {
+            "id": "11",
           "nome": "Lunio-11",
           "tipo": "OLT",
           "site": "REC0011",
@@ -89,6 +100,7 @@
           "primario": "208"
         },
         {
+            "id": "12",
           "nome": "Lunio-12",
           "tipo": "OLT",
           "site": "REC0012",
@@ -97,6 +109,7 @@
           "primario": "210"
         },
         {
+            "id": "13",
           "nome": "Lunio-13",
           "tipo": "OLT",
           "site": "REC0013",
@@ -105,6 +118,7 @@
           "primario": "212"
         },
         {
+            "id": "14",
           "nome": "Lunio-14",
           "tipo": "OLT",
           "site": "REC0014",
@@ -113,6 +127,7 @@
           "primario": "214"
         },
         {
+            "id": "15",
           "nome": "Lunio-15",
           "tipo": "OLT",
           "site": "REC0015",
@@ -121,6 +136,7 @@
           "primario": "216"
         },
         {
+            "id": "16",
           "nome": "Lunio-16",
           "tipo": "OLT",
           "site": "REC0016",
@@ -129,6 +145,7 @@
           "primario": "218"
         },
         {
+            "id": "17",
           "nome": "Lunio-17",
           "tipo": "OLT",
           "site": "REC0017",
